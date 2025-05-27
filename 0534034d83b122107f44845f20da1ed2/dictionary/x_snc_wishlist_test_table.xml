@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="751cc34d833522107f44845f20da1e56" label="Test Table" max_length="40" name="x_snc_wishlist_test_table" type="collection">
-        <element label="Test Field 1" max_length="100" name="test_field_1" type="string"/>
+        <element label="Test Field 1" mandatory="true" max_length="100" name="test_field_1" type="string"/>
     </element>
 </database>
